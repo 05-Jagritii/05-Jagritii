@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 Learning web development through hands-on projects  <br>🌱 Exploring React, JavaScript & AI/ML basics  <br>👯 Open to open-source collaborations  <br>🤝 Improving real-world coding skills  <br>⚡ Debugging powered by chai ☕😄<br><br><br>
 
+![coding gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p1d3RhdDVzOHZsMXZjMTFiczQwMWdneWgzcTJpcDl3d3dodGZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/k.jagritii?igsh=MWl4dDdxMm9kaDJtcA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jagriti-kanwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanwarjagriti21@gmail.com) 
