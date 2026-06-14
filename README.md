@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 Learning web development through hands-on projects  <br>🌱 Exploring React, JavaScript & AI/ML basics  <br>👯 Open to open-source collaborations  <br>🤝 Improving real-world coding skills  <br>⚡ Debugging powered by chai ☕😄<br><br><br>
+- 💻 Full-Stack Developer specializing in the MERN Stack
+- 🤖 Exploring the exciting world of Machine Learning & AI
+- 🚀 Building impactful projects and learning by doing
+- 🌱 Always curious, always growing
+- 🤝 Open to collaborations, innovation, and open-source
+- 🎯 Transforming ideas into real-world digital solutions
+- ☕ Powered by code, chai, and continuous learning<br><br><br>
 
 ![coding gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p1d3RhdDVzOHZsMXZjMTFiczQwMWdneWgzcTJpcDl3d3dodGZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
